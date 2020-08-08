@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115618859999",
+    "firebase_url": "https://final-text-reader.firebaseio.com",
+    "project_id": "final-text-reader",
+    "storage_bucket": "final-text-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115618859999:android:72c0b6de18090c0524526a",
+        "android_client_info": {
+          "package_name": "com.example.final_text_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115618859999-at22dgsd08kqsklr8ifon799berc4sms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOU1dqrHH1vYKO3WsTKzMRKKiV_xqDIto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115618859999-at22dgsd08kqsklr8ifon799berc4sms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
